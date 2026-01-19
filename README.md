@@ -1,12 +1,15 @@
-'📘 Language Learning Platform'
+## **📘 Language Learning Platform**
+
 A web-based Language Learning Platform designed to help users learn Kannada using English in an interactive and structured way.
 The application includes five learning modules, quizzes, and a progress tracking system to monitor user performance and improve learning outcomes.
 
-✨ Project Summary
+## **✨ Project Summary**
+
 Learning regional languages can be challenging for beginners. This project aims to simplify the process by providing structured lessons, interactive quizzes, and real-time progress tracking.
 The platform allows users to learn Kannada step-by-step using English explanations, practice through quizzes, and track their learning progress through an easy-to-use interface.
 
-🚀 Features
+## **🚀 Features**
+
 -Learn Kannada using English explanations
 -Five structured learning modules
 -Interactive quizzes for each module
@@ -16,13 +19,18 @@ The platform allows users to learn Kannada step-by-step using English explanatio
 -Admin panel for content management
 -Simple and user-friendly UI
 
-🧰 Technologies Used
+## **🧰 Technologies Used**
+
 Backend: Python, Django
+
 Frontend: HTML, CSS, Bootstrap
+
 Database: MySQL
+
 Tools: VS Code, GitHub
 
-⚙️ Installation and Setup Prerequisites
+## **⚙️ Installation and Setup Prerequisites**
+
 Install Python on your system.
 Extract the project folder.
 Open the project in VS Code.
